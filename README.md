@@ -1,2 +1,1 @@
-a=10
-print(a)
+system.out.println("hello jenkins")
